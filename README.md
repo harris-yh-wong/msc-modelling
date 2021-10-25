@@ -1,2 +1,18 @@
 # asmhi_modelling
+
 ASMHI MSc - 7PAVITSM Introduction to Statistical Modelling
+
+# course structure
+
+| Day | Date       | Pre-recorded lectures                                                                    | Datasets (lecture)                                                       | Practical session                         | Datasets (practicals)                   | Remarks                 |
+| --- | ---------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ----------------------------------------- | --------------------------------------- | ----------------------- |
+| 1   | Mon 25 Oct |                                                                                          |                                                                          | S01/L01 Course introduction               |                                         |                         |
+| 2   | Tue 26 Oct | S02/L01 Basic concepts used in statistics<br />S03/L02 Correlation and linear regression | crime.dta<br />ncds_day2.dta                                             | S04/P02 Regression                        | regression_practical.dta                |                         |
+| 3   | Wed 27 Oct | S05/L03 Binary data                                                                      | bloodclot.dta<br />deathpenalty.dta<br />marriage.dta<br />ncds_day3.dta | S06/P03 Binary data                       | Autism.dta<br />Depression-violence.dta |                         |
+| 4   | Thu 28 Oct | S07 L04 Logistic regression                                                              |                                                                          | S08/P04 Multiple logistic regression      | COVID-19_hosp.dta                       |                         |
+| 5   | Fri 29 Oct | S09 L05 Generalised linear models                                                        | nas.dta<br />suicide.dta                                                 | S10/P05 Generalised linear regression     | nas.dta<br />suicide.dta                | drop-in session         |
+| 6   | Mon 1 Nov  | S11 L06 Missing data                                                                     | heart.dta<br />heart2.dta                                                | S12/P06 Missing data                      | scores.dta                              |                         |
+| 7   | Tue 2 Nov  | S13 L07 Variance-component models                                                        |                                                                          | S14/P07 Variance-component models         | practical7.dta                          |                         |
+| 8   | Wed 3 Nov  | S15 L08 Random intercept models                                                          |                                                                          | S16/P08 Random intercept models           | practical8.dta                          |                         |
+| /   | Thu 4 Nov  | /                                                                                        |                                                                          | /                                         |                                         | no sessions on this day |
+| 9   | Fri 4 Nov  | S17/L09 Power and sample size calculation                                                |                                                                          | S18/P09 Power and sample size calculation |                                         | drop-in session         |
